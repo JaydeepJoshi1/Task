@@ -51,14 +51,44 @@ The Power button	on this TV and your remote control puts the TV into a very low-
 Please register your TCL TV purchase on-line www.tcl.com/in/en It will make it easier to contact  you should it ever be necessary. Registration is not required for warranty coverage.
 ##### Warning: 
 Changes or modifications to this unit not expressly approved by the party
-responsible forcompliance could void the user’s authority to operate the equipment. Keep
-the apparatus at least 8inches away from the human body.
+responsible for compliance could void the user’s authority to operate the equipment. 
+Keep the apparatus at least 8inches away from the human body.
 For the best viewing experience, remove the energy guide label from the TV front
 panel or TVscreen before us.
 
 ______________________________________________________________________________________________________________________________
 
-
+##### Important Safety Instructions
+ Follow all instructions.
+- Do not use this apparatus near water.
+- Clean only with a dry cloth.
+ Do not block any ventilation openings. Install in accordance with the
+manufacturer’s instructions.
+ Do not install near any heat sources such as radiators, heat registers, stoves, or
+other apparatus (including amplifiers) that produce heat.
+ Protect the power cord from being walked on or pinched particularly at plugs,
+convenience receptacles, and the point where they exit from the apparatus.
+ WARNING: Please refer the information on exterior bottom enclosure for
+electrical and safety information before installing or operating the apparatus.
+ WARNING: The main plug is used to disconnect the device and should remain
+readily operable.
+ When not in use, tie up the power cordset with a cable tie or with something
+similar. It should not be near sharp edges as it may cause abrasion of the power
+cordset. When put into use again, please make sure the power cordset is not
+damaged. If any damage is found, please use a replacement power cord specified
+by the manufacturer or that is identical to the original one.
+ No open flame sources, such as lit candles, should be placed on, under, or near
+the apparatus 14.Unplug this apparatus during lightning storms or when unused
+for long periods of time.
+ Only use attachments/accessories specified by the manufacturer.
+ Use only with the cart, stand, tripod, bracket, or table specified by the
+manufacturer, or sold with the apparatus. When a cart is used, use caution when
+moving the cart/apparatus combination to avoid any injury.
+ Refer all servicing to qualified service personnel. Servicing is required when the
+apparatus has been damaged in any way, such as power-supply cord or plug is
+damaged, liquid has been spilled or objects have fallen into the apparatus, the
+apparatus has been exposed to rain or moisture, does not operate normally, or
+has been dropped.
 
 
 
