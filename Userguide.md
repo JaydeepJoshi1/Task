@@ -218,6 +218,39 @@ network,accounts, privacy, apps,system, remotes, and accessories, etc.
 
 ________________________________________________________________________________________________________________________
 
+##### Adjusting your TV
+##### Channels & Inputs
+
+The channels and inputs menus are used to scan and maintain your channels and
+access the electronic Program Guide. Adjust the inputsettings. The menus are only
+available in TV mode.
+
+1. In TV mode, press **Setting** on the remote control,select **Settings** and go to **Channels & Inputs.**
+2. Press **Up/Down** button to select the item you want to set, and then press **OK.**
+3. Set the channel and input itemsto your preferences one by one.
+
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/71e53491-303d-4785-8627-896c3d65c7f2)
+
+
+##### Channels
+**Channel Scan:** Search channels automatically or manually.
+
+**Country/Region:** The TV installs and arranges channels according to your country or
+region. Press **Up/Down** button to select **Country/Region,** and press **OK** to enter. 
+Enter the default password 1234. Press **Up/Down** button to select your country or region and
+press **OK** to confirm.
+
+**Scan Automatically:** Press **Up/Down** button to select **Scan Automatically** and press **OK** to
+enter.Select the tuner mode and channel type you wanted, then press **Down** button to
+select **Search** and press **OK** to starts canning channels.
+**Manually Scan:** Scan channels manually by entering parameters such as channel number or
+frequency.
+
+##### Inputs 
+You can see the connected input,standby inputs and set the name these inputs and
+select whetherto display them in the input list.
+**Control Other Devices(CEC):** Control the devices connected by HDMI.
+**eARC Mode:** This is an advancement over the previous ARC function.
 
 
 
