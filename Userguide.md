@@ -268,7 +268,8 @@ broadcasting type and every inputsource.
 ![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/e834e969-7f16-4da8-8a3c-036489238b7b)  
 
 
-**Picture** 
+**Picture**                                   
+
 **Picture Mode:** Select a picture mode optimized for different viewing conditions. 
 Press **Up/Down** button to select an option and then press **OK.**    
 
@@ -323,6 +324,46 @@ or optical digital cable.
 
 ____________________________________________________________________________________________________________________________________
 
+**System Settings** 
+
+Follow these instructionsto configure varioussystem settings:
+
+1. Press **Home** on the remote control to display the TV homepage.
+2. Press **Up/Down/Right/Left** button to move the cursor to on screen and press **OK** to
+   enter the **Settings** menu.
+3. Press **Up/Down** to select System and then press **OK.**
+4. Press **Up/Down** to select the items you want to set, and then press **OK.**
+
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/dcdb33e7-fe3b-415e-8067-37a850ca4622)    
+
+
+-  Accessibility: Configure captions, high contrast text,textto speech. Set the
+   talkback and switchaccess.
+-  About: Check the detail information of the TV, such as, system update, device name,
+   status, model and version, product information, ect. You can also view legal
+   information, turn on the autoupdate and reset the TV.
+-  Date& time: This function need network connection and then you can set the date
+   and time. You can choose whether to auto synchronize orto manually set the date
+   and time. You can also set the time zone and choose to use 24-hour format.
+-  Language: Select a menu language. The selected menu language will also be set
+   as the voice recognition language.
+-  Keyboard: Configure the settings of the on-screen keyboard. You can set language
+   and check the version and user agreements of the current keyboard. You can also
+   add new virtual keyboards oractive virtual remote keyboard.
+-  Storage: View the memory usage status, clear data, cache and defaults, and to
+   open, force stop or disable an app. Besides, you can add or remove an app's
+   permissions to access your contacts,location, and microphone, etc.
+-  Ambient mode: You should set up Google TV to enable the function which can
+   show the weather,time, the owner's name, etc...
+-  Power&Energy: Configure the screen saver settings, including power on behavior,
+   the in activity time after which to turn off display, the sleep timer. Configure quick
+   start on function and screenless service.
+-  System Sounds: You can set the system sounds to off, low, medium, or high.
+-  Advanced Settings: Set the LED indicator of Mic and in standby mode. You
+   can choose the environment in which your TV is used.
+
+
+_____________________________________________________________________________________________________________________________________
 
 
  
