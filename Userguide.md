@@ -59,7 +59,7 @@ panel or TVscreen before us.
 ______________________________________________________________________________________________________________________________
 
 ##### Important Safety Instructions
- Follow all instructions.
+- Follow all instructions.
 - Do not use this apparatus near water.
 - Clean only with a dry cloth.
 - Do not block any ventilation openings. Install in accordance with the manufacturer’s instructions.
