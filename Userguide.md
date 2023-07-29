@@ -11,7 +11,7 @@ connection, are required.
 
 Illustrations in this guide are provided for reference only and may differ from actual product appearance.
 
-## Contents (Orange color)
+## Contents(Orange color)
 Important Information.........................................................................................................3                                
 Important Safety Instructions.................................................................................................4
 ### Connections and setup
