@@ -62,15 +62,14 @@ ________________________________________________________________________________
  Follow all instructions.
 - Do not use this apparatus near water.
 - Clean only with a dry cloth.
- Do not block any ventilation openings. Install in accordance with the
-manufacturer’s instructions.
- Do not install near any heat sources such as radiators, heat registers, stoves, or
-other apparatus (including amplifiers) that produce heat.
- Protect the power cord from being walked on or pinched particularly at plugs,
+- Do not block any ventilation openings. Install in accordance with the manufacturer’s instructions.
+- Do not install near any heat sources such as radiators, heat registers, stoves, or other apparatus
+  (including amplifiers) that produce heat.
+- Protect the power cord from being walked on or pinched particularly at plugs,
 convenience receptacles, and the point where they exit from the apparatus.
- WARNING: Please refer the information on exterior bottom enclosure for
+- WARNING: Please refer the information on exterior bottom enclosure for
 electrical and safety information before installing or operating the apparatus.
- WARNING: The main plug is used to disconnect the device and should remain
+- WARNING: The main plug is used to disconnect the device and should remain
 readily operable.
  When not in use, tie up the power cordset with a cable tie or with something
 similar. It should not be near sharp edges as it may cause abrasion of the power
