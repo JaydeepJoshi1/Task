@@ -1,5 +1,4 @@
-![Picture 1](https://github.com/JaydeepJoshi1/Task/assets/108059842/075cc348-26c8-41fc-b7b3-39b88b9494e3)
-
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/11609ffc-dc15-4075-a741-3fb5887611b9)
 
 
 
