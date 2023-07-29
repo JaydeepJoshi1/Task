@@ -32,7 +32,7 @@ Sound...........................................................................
 System Settings...............................................................................................................................13          
 ##### Other Information
 Password in Parental Control..........................................................................................................14   
-Troubleshooting........................................................................................................................14   
+Troubleshooting.........................................................................................................................14   
 TCL India Limited Warranty.............................................................................................................15   
 
 ________________________________________________________________________________________________________________________________________
@@ -201,6 +201,22 @@ network,accounts, privacy, apps,system, remotes, and accessories, etc.
 - Finish setting up your TV: Add a Google account or sync the registered Google
   account to makethe most of your TV.
 ##### General settings
+-  Channels & Inputs: Adjust the channel settings, scan for channels, and adjust input
+   settings.
+-  Display &S ound: Adjust the picture settings and adjust to experience the different
+   sound effects.
+-  Network & Internet: Configure the Wi-Fi and internet settings. The network
+   status is also displayed.
+-  Accounts & Sign In: Sign in your Google account to make the most of your TV.
+-  setup with your phone or computer and then login the Google Account. We
+   recommend selectingthesecond one that use your remote to sign in on the TV
+   directly.
+-  Apps: View the TV guard and the list of recently opened apps, all installed apps,
+   and the systemapps. You can also add permissions for different apps and
+   configure special app access to optimized energy and set usage access,
+   notification access, picture-in-picture mode, and more.
+
+________________________________________________________________________________________________________________________
 
 
 
