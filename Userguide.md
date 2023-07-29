@@ -9,7 +9,7 @@ TCL and the TCL Logo are owned by TCL Corporationand under license to TCL India.
 To enjoy all smart features and services on your TCL Google TV, a free Google account, a free TCL account,and a reliable broadband internet
 connection, are required.
 
-Illustrations in this guide are provided for reference only and may differ from actualproduct appearance.
+Illustrations in this guide are provided for reference only and may differ from actual product appearance.
 
 ## Contents
 Important Information.........................................................................................................3                                
