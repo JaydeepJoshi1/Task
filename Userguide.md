@@ -2,12 +2,15 @@
 
 ![-original-imagzkff6pgy7kej 2](https://github.com/JaydeepJoshi1/Task/assets/108059842/a36a7603-4e6d-42aa-9c60-6c87df6f44ba)
 # Userguide 
-www.tcl.com/in/en
-TCL and the TCL Logo are owned by TCL Corporationand under license to TCL N. Other brandand product names are the trademarks or registered
-trademarks of their respective owners.
+www.tcl.com/in/en                               
+
+TCL and the TCL Logo are owned by TCL Corporationand under license to TCL India. Other brandand product names are the trademarks or registered trademarks of their respective owners.
+
 To enjoy all smart features and services on your TCL Google TV, a free Google account, a free TCL account,and a reliable broadband internet
 connection, are required.
+
 Illustrations in this guide are provided for reference only and may differ from actualproduct appearance.
+
 ## Contents
 Important Information.........................................................................................................3                                
 Important Safety Instructions.................................................................................................4
