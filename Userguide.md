@@ -91,5 +91,10 @@ has been dropped.
 
 ______________________________________________________________________________________________________________
 
+##### Set up your new TV
+- Open the box and remove the TV and other items. Be careful, the TV may
+be heavy! We strongly recommend that at least two people unbox the TV.
+- Be sure to check all the foam packaging as the stands from some TVs are
+stored in the foam for protection.
 
 
