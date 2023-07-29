@@ -27,3 +27,9 @@ Troubleshooting.................................................................
 TCL India Limited Warranty.............................................................................................................15   
 ________________________________________________________________________________________________________________________________________
 ##### Important Information
+##### Warning
+To reduce the risk of fire or electric shock, do not expose this product to rain or moisture. This product should not be exposed to dripping or splashing. No objects filled with liquids, such as vases, should be placed on the apparatus.
+The TV is unstable if it is not properly attached to the base or mounted to the wall. Please follow the base or wall mounting instructions provided in the User’s Guide to ensure your safety. The batteries should not be exposed to excessive heat, such as prolonged direct sunlight, open flame, or fire of any kind. Refer to the identification/rating label located on the back panel of your product for its proper operating voltage.
+
+
+
