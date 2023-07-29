@@ -269,23 +269,35 @@ broadcasting type and every inputsource.
 
 
 ##### Picture
-**Picture Mode:** Select a picture mode optimized for different viewing conditions.
-Press **Up/Down** button to select an option and then press **OK.**
+**Picture Mode:** Select a picture mode optimized for different viewing conditions. 
+Press **Up/Down** button to select an option and then press **OK.**    
+
 **Brightness:** Adjust the luminance level ofthe screen. Press **Right/Left** button to set the
-preferred brightness.
+preferred brightness.      
+
 **Color Saturation:** Adjust the color saturation level of the picture. Press **Right/Left** button to
-set thepreferred color saturation.
-**Advanced Settings:** Adjust more picture options.
-**Brightness Settings:** Adjust Brightness settings such as Contrast, Brightness and Black level.
-**Color:** Adjust Color settings such as Color saturation, Temperature and Tint.
-**Clarity:** Adjust the Clarity settings such as Sharpness and Digital Noise reduction.
-**Motion:** Control settings such as Motion Clarity and Judder Reduction.
-**Expert Calibration:** Adjust advanced picture settings as White Balance and Color Space.
-**Screen Settings:** Adjust settings such as Aspect ratio.
+set thepreferred color saturation.      
+
+**Advanced Settings:** Adjust more picture options.   
+
+**Brightness Settings:** Adjust Brightness settings such as Contrast, Brightness and Black level.   
+
+**Color:** Adjust Color settings such as Color saturation, Temperature and Tint.   
+
+**Clarity:** Adjust the Clarity settings such as Sharpness and Digital Noise reduction.   
+
+**Motion:** Control settings such as Motion Clarity and Judder Reduction.   
+
+**Expert Calibration:** Adjust advanced picture settings as White Balance and Color Space.   
+
+**Screen Settings:** Adjust settings such as Aspect ratio.  
+
 **Apply All Picture Settings:** Select whether to apply the picture settings to the current input
-or to all input. Press **Up/Down** button to select an option and then press **OK.**
+or to all input. Press **Up/Down** button to select an option and then press **OK.**   
+
 **Restore Defaults:** Resets all custom picture settings. Press **Right/Left button** to select **OK**
-and then press **OK.**
+and then press **OK.**  
+
 
 _________________________________________________________________________________________________________________________________
 
