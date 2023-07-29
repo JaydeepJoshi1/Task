@@ -365,8 +365,85 @@ Follow these instructionsto configure varioussystem settings:
 
 _____________________________________________________________________________________________________________________________________
 
+**Other information**     
 
- 
+**Password in Parental Control**    
+-  The default password is 1234. You can change it to a new one. 
+-  The super password is 0423. If you forget your code, enter the super password to
+   override anyexisting codes.
+
+**Troubleshooting**    
+Please check the following list before requesting service:
+
+**There is no picture or sound.**   
+- Make sure the power cord is properly inserted in the power outlet.
+- Make sure the source type is set correctly.
+- Make sure the antenna is properly connected.
+- Make sure the volume is not set to minimum or the sound is not set to mute.
+- Make sure the headphones are not connected.
+- The TV may be receiving a signal other than from TV broadcasting stations.
+
+**Picture is not clear.**
+
+-  Make sure the antenna cable is properly connected.   
+-  Consider whether your TV signal is being properly received.  
+-  Poor picture quality can occur due to a VHS camera, camcorder, or other peripheral being connected at the same time.   
+   Switch off one of  the other peripherals.   
+-  The ‘ghost’ or double image may be caused by obstruction to the antenna due to high-risebuildings or hills.   
+   Using a highly directional antenna may improve the picture quality.  
+-  The horizontal dotted linesshown on the pictures may be caused bye lectrical interference, e.g.,hair dryer, nearby neon lights, etc. 
+   Turn off or remove these.   
+
+**Picture is too dark, too light or tinted.**   
+
+  -  Check the color adjustment.
+  -  Check the brightness setting.
+  -  Check the sharpness function.
+
+**Remote control does not work.**   
+
+  -  Check the batteries of the remote control.
+  -  Make sure the remote sensor window on the front of the TV is not in strong fluorescent lighting.
+  -  Try to clean the remote sensor window on the front of the TV with a soft cloth.
+
+   **If the above suggestions do not solve your technical issue, please refer to the warranty
+   card forservice information.**
+
+
+________________________________________________________________________________________________________________________________________
+
+
+   ##### TCL India Limited Warranty
+
+   What your warranty covers
+   
+   Defects in materials or workmanship to the original owner of this TCL product when purchased as new from an
+   Authorized Dealer of TCL brand products in the India and packaged with this warranty statement.
+   
+   New LCD/LED/QLED Televisions (Non-Commercial Use)
+   For how long after your purchase:
+
+   - Two (2) years from date of purchase for parts and labor for non-commercial use.
+
+   New LCD/LED/QLED Televisions (Commercial Use)
+   For how long after your purchase:
+
+   - One (1) year from date of purchase for parts and labor for commercial use.   
+   - Commercial use includes, but is not limited to, the use of this product in a commercial or business environment,
+     the use of this product in an institution or for institutional purposes, or other commercial purposes including
+     rental purposes.   
+   
+    What we will do
+
+    - At TCL India’s discretion, (1) pay an Authorized TCL Service Center for both labor charges and parts to repair your
+      television, or (2) replace your television with a new or refurbished/ remanufactured equivalent value product.
+      The decision to repair or replace will be made solely by TCL India.
+
+____________________________________________________________________________________________________________________________________
+
+
+
+
 
 
 
