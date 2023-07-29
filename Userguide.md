@@ -302,7 +302,7 @@ and then press **OK.**
 
 _________________________________________________________________________________________________________________________________
 
-##### Audio
+**Audio**      
 
 **Sound Mode:** Select a soundmode that bestsuits your audio needs. Enter the Sound mode
 menu and press **Up/Down** button to select an option and then press **OK.** Select Reset to
