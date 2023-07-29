@@ -34,7 +34,9 @@ System Settings.................................................................
 Password in Parental Control..........................................................................................................14   
 Troubleshooting........................................................................................................................14   
 TCL India Limited Warranty.............................................................................................................15   
+
 ________________________________________________________________________________________________________________________________________
+
 ##### Important Information
 ##### Warning
 To reduce the risk of fire or electric shock, do not expose this product to rain or moisture. This product should not be exposed to dripping or splashing. No objects filled with liquids, such as vases, should be placed on the apparatus.
@@ -47,11 +49,14 @@ Make sure the TV stand or base you use is of adequate size and strength to preve
 The Power button	on this TV and your remote control puts the TV into a very low-power standby mode but will not completely turn the power off. In order to completely shut the power off, you will need to disconnect the power cord from the outlet. The mains plug/appliance coupler is used to completely turn off the device. If you prefer to completely turn off the device, you should install the TV in a manner that allows you to disconnect the power cord when desired.
 ##### Product Registration   
 Please register your TCL TV purchase on-line www.tcl.com/in/en It will make it easier to contact  you should it ever be necessary. Registration is not required for warranty coverage.
-Warning: Changes or modifications to this unit not expressly approved by the party
+##### Warning: 
+Changes or modifications to this unit not expressly approved by the party
 responsible forcompliance could void the user’s authority to operate the equipment. Keep
 the apparatus at least 8inches away from the human body.
 For the best viewing experience, remove the energy guide label from the TV front
 panel or TVscreen before us.
+
+______________________________________________________________________________________________________________________________
 
 
 
