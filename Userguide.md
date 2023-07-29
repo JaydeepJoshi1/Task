@@ -155,9 +155,22 @@ please refer to the figure below.
 - Press the **Power** button to move the highlight to the next function selection.
 - Press and hold the **Power** button for more than 2 seconds to confirm your
   selection.  
-  ==Please refer to the Quick Start Guide to find the button on your TV set==.
-  
 
+ ________________________________________________________________________________________________________________
+
+ ##### Accessing TV homepage
+ The basic TV homepage allows you to enjoy Internet Applications,specially adapted
+ Internet websites, and change your TV settings.
+ ##### Warning:
+ -  Configure the network settings before using Smart TV applications.
+ -  Slow responses and/or interruptions may occur, depending on your network conditions.
+ -  If you experience a problem using an application, please contact the content provider.
+ -  According to circumstances of the content provider, an application’s updates,or the application
+    itself may be discontinued.
+ -  Depending on your country's regulations, some applications may have limited
+    service or not besupported.
+ -  Changes in application content may be made without prior notice by the service provider.
+ 
 
 
 
