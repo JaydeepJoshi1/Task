@@ -97,4 +97,28 @@ be heavy! We strongly recommend that at least two people unbox the TV.
 - Be sure to check all the foam packaging as the stands from some TVs are
 stored in the foam for protection.
 
+##### Connect to the Internet
+The following instructions are just the usual ways to connect your TV to the wired or
+wireless network. The connection method may be different depending on your actual
+network configuration.If you have any questions about your home network, please refer to
+your internet service provider.
+##### Network settings
+1. Press home on the remote control to display the TV homepage.
+2. Press setting on the remote control and press **OK** to enterthe **Settings** menu.
+3. Press **Up/Down button** to select **Network & Internet,** press **OK** to enter the submenu
+   and follow the on-screen guidance to set up your network.
+
+____________________________________________________________________________________________________________________________
+
+##### Switch the TV on and off
+1. When the power cord is connected, the TV will be turned on directly or be in standby
+mode. If the TV is in standby mode, press the button on the set or the button on the
+remote control to turn it on.
+2. To put the TV into standby mode, press the button on the remote control. The TV set
+remains powered on, but with low energy consumption.
+3. To completely turn the TV off, unplug the power cord from the wall outlet.
+
+
+
+
 
