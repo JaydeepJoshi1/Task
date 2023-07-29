@@ -170,6 +170,18 @@ please refer to the figure below.
  -  Depending on your country's regulations, some applications may have limited
     service or not besupported.
  -  Changes in application content may be made without prior notice by the service provider.
+1. Press **Home** on the remote control to display the TV homepage.
+2. Press **Up/Down/Right/Left** button and **OK** to enter the desired Apps, functions, or settings.
+3. Press **Left** to return to the homepage.
+**Note:** Since the connection to the Internet takestime, it’srecommended that you
+wait a few minutes to use the Smart TV feature after you activate the TV from standby
+mode.
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/7525f474-a1be-46da-9010-2626b2486602)
+
+
+______________________________________________________________________________________________________________________________
+
+
  
 
 
