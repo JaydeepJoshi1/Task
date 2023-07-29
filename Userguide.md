@@ -253,6 +253,44 @@ select whetherto display them in the input list.
 **eARC Mode:** This is an advancement over the previous ARC function.
 
 
+______________________________________________________________________________________________________________________________________
+
+##### Display & Sound
+
+The menus are used to obtain the best picture and audio settings according to your
+preference andthe type of program you are watching. The menus can be set up at every
+broadcasting type and every inputsource.
+1. Press **Setting** on the remote control,select **Settings** and go to **Display & Sound**
+2. Press **Up/Down** button to select the item you want to set, and then press **OK.**
+3. Set the picture and audio items to your preferences one by one.
+**Note:** The options available may vary depending on the picture mode you set.
+
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/e834e969-7f16-4da8-8a3c-036489238b7b)  
+
+
+##### Picture
+**Picture Mode:** Select a picture mode optimized for different viewing conditions.
+Press **Up/Down** button to select an option and then press **OK.**
+**Brightness:** Adjust the luminance level ofthe screen. Press **Right/Left** button to set the
+preferred brightness.
+**Color Saturation:** Adjust the color saturation level of the picture. Press **Right/Left** button to
+set thepreferred color saturation.
+**Advanced Settings:** Adjust more picture options.
+**Brightness Settings:** Adjust Brightness settings such as Contrast, Brightness and Black level.
+**Color:** Adjust Color settings such as Color saturation, Temperature and Tint.
+**Clarity:** Adjust the Clarity settings such as Sharpness and Digital Noise reduction.
+**Motion:** Control settings such as Motion Clarity and Judder Reduction.
+**Expert Calibration:** Adjust advanced picture settings as White Balance and Color Space.
+**Screen Settings:** Adjust settings such as Aspect ratio.
+**Apply All Picture Settings:** Select whether to apply the picture settings to the current input
+or to all input. Press **Up/Down** button to select an option and then press **OK.**
+**Restore Defaults:** Resets all custom picture settings. Press **Right/Left button** to select **OK**
+and then press **OK.**
+
+_________________________________________________________________________________________________________________________________
+
+
+
 
  
 
