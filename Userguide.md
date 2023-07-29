@@ -154,7 +154,8 @@ please refer to the figure below.
 
 - Press the **Power** button to move the highlight to the next function selection.
 - Press and hold the **Power** button for more than 2 seconds to confirm your
-  selection. Note: Please refer to the Quick Start Guide to find the button on your TV set.
+  selection.
+  ==Note: Please refer to the Quick Start Guide to find the button on your TV set==.
   
 
 
