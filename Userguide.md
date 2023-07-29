@@ -1,4 +1,4 @@
-![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/11609ffc-dc15-4075-a741-3fb5887611b9) 
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/11609ffc-dc15-4075-a741-3fb5887611b9)     
 
 ![-original-imagzkff6pgy7kej 2](https://github.com/JaydeepJoshi1/Task/assets/108059842/a36a7603-4e6d-42aa-9c60-6c87df6f44ba)
 # Userguide 
@@ -11,7 +11,7 @@ connection, are required.
 
 Illustrations in this guide are provided for reference only and may differ from actual product appearance.
 
-## Contents(Orange color)
+## Contents
 Important Information.........................................................................................................3                                
 Important Safety Instructions.................................................................................................4
 ### Connections and setup
@@ -45,6 +45,15 @@ This television is a table model and is designed to sit on a firm, flat surface.
 Make sure the TV stand or base you use is of adequate size and strength to prevent the TV from being accidentally tipped over, pushed o, or pulled o. This may cause personal injury and/or damage the TV. Refer to the Important Safety Instructions on the next page.
 
 The Power button	on this TV and your remote control puts the TV into a very low-power standby mode but will not completely turn the power off. In order to completely shut the power off, you will need to disconnect the power cord from the outlet. The mains plug/appliance coupler is used to completely turn off the device. If you prefer to completely turn off the device, you should install the TV in a manner that allows you to disconnect the power cord when desired.
+##### Product Registration   
+Please register your TCL TV purchase on-line www.tcl.com/in/en It will make it easier to contact  you should it ever be necessary. Registration is not required for warranty coverage.
+Warning: Changes or modifications to this unit not expressly approved by the party
+responsible forcompliance could void the user’s authority to operate the equipment. Keep
+the apparatus at least 8inches away from the human body.
+For the best viewing experience, remove the energy guide label from the TV front
+panel or TVscreen before us.
+
+
 
 
 
