@@ -172,14 +172,37 @@ please refer to the figure below.
  -  Changes in application content may be made without prior notice by the service provider.
 1. Press **Home** on the remote control to display the TV homepage.
 2. Press **Up/Down/Right/Left** button and **OK** to enter the desired Apps, functions, or settings.
-3. Press **Left** to return to the homepage.
+3. Press **Left** to return to the homepage.  
+
 **Note:** Since the connection to the Internet takestime, it’srecommended that you
 wait a few minutes to use the Smart TV feature after you activate the TV from standby
-mode.
+mode.  
+
 ![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/7525f474-a1be-46da-9010-2626b2486602)
 
 
 ______________________________________________________________________________________________________________________________
+
+##### Using TV settings menu
+
+Allow you to configure settings of TV features,such as channels, display and sound,
+network,accounts, privacy, apps,system, remotes, and accessories, etc.
+1. Press **Home** on the remote control to display the TV homepage.
+2. Press ▲/▼/◄/► to move the cursor to **Setting** on the right top of the screen and press
+   **OK** to enter the settings menu.
+3. In submenus, press ▲/▼ to select menu options, then press **OK** to enter the option
+   list or the corresponding submenu.
+4. Press **Left** to return to the previous menu.
+5. Press **Home** to close the settings menu and return to the homepage.
+
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/8d57dd63-c6ba-4c33-bd76-600ce60b01ff) 
+
+##### Suggestions
+- Finish setting up your TV: Add a Google account or sync the registered Google
+  account to makethe most of your TV.
+##### General settings
+
+
 
 
  
