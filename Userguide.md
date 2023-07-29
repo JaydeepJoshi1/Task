@@ -268,7 +268,7 @@ broadcasting type and every inputsource.
 ![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/e834e969-7f16-4da8-8a3c-036489238b7b)  
 
 
-##### Picture
+**Picture** 
 **Picture Mode:** Select a picture mode optimized for different viewing conditions. 
 Press **Up/Down** button to select an option and then press **OK.**    
 
@@ -303,6 +303,25 @@ ________________________________________________________________________________
 
 ##### Audio
 
+**Sound Mode:** Select a soundmode that bestsuits your audio needs. Enter the Sound mode
+menu and press **Up/Down** button to select an option and then press **OK.** Select Reset to
+restore all soundpreset to factory defaults.                                                      
+**Audio Out Delay:** Correct timing mismatches between the audio and video tracks. This
+option is only available when Digital audio out isset to PCM.                                     
+**Audio only mode:** Select to switch off the TV display and only listen to the sound from the
+TV. TheTV screen will turn off in about 10 seconds. In audio only mode, press any key to
+turn on the TVscreen again.                                        
+**Advanced settings:** Adjust more sound options.                            
+**Audio Only Mode:** Select to switch off the TV display and only listen to the sound from
+the TV. The TV screen will turn off in about 10 seconds. In audio only mode, press any key
+to turn on theTV screen again.                                           
+**Balance:** Adjust the volume of the left and right speakers.                 
+**Auto Volume Control:** Equalize audio for a more relaxed experience.            
+**Digital Audio Out:** Select the audio format for the audio system connected with HDMI
+or optical digital cable.   
+
+
+____________________________________________________________________________________________________________________________________
 
 
 
