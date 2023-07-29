@@ -130,7 +130,36 @@ the settings menu.
 
 ______________________________________________________________________________________________________________________________________
 
-> Basic TV operations
+##### Basic TV operations
+In TV homepage, press the **TV** button on the remote control to display the live antenna TV
+channels and select Search to scan channels.
+
+##### Watching connected devices
+In TV homepage, use remote control to select on screen to display the source list. Press
+**Up/Down** button to select TV or other input sources and press **OK** to confirm.
+
+##### Adjusting volume
+Press the +/- buttons on the remote-control side to increase or decrease the volume.
+Press the button on the side of the remote control to mute the sound.
+
+##### Using the power button on your TV
+In addition to using the remote control to control your TV, you can also use the **Power** button
+on your TV. You can turn on the TV from standby mode by pressing the **Power** button on your TV.
+While the TV is on, the multi-function menu appears by pressing and holding the button
+on your TV about 3 seconds. For more information on how to use the multi-function menu,
+please refer to the figure below.
+
+
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/1c5b85a6-d570-46f6-8e58-80e17b553b41)
+
+- Press the **Power** button to move the highlight to the next function selection.
+- Press and hold the **Power** button for more than 2 seconds to confirm your
+  selection. Note: Please refer to the Quick Start Guide to find the button on your TV set.
+  
+
+
+
+
 
 
 
