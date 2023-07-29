@@ -156,7 +156,7 @@ please refer to the figure below.
 - Press and hold the **Power** button for more than 2 seconds to confirm your
   selection.
 
-  ==Please refer to the Quick Start Guide to find the button on your TV set==.
+  == Please refer to the Quick Start Guide to find the button on your TV set ==
   
 
 
