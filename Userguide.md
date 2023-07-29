@@ -118,6 +118,18 @@ remote control to turn it on.
 remains powered on, but with low energy consumption.
 3. To completely turn the TV off, unplug the power cord from the wall outlet.
 
+##### Initial setup
+The first time you switch the TV on, the **Welcome** screen appears, which guides you through
+the initial setup process. Follow the on-screen instructionsto finish the initial setup process
+including selecting the language, connecting to the network, and more. During each step,
+either make a choice orskip the step. If you skip a step, you can perform the setup later from
+the settings menu.
+
+![image](https://github.com/JaydeepJoshi1/Task/assets/108059842/a4920aef-57d3-436b-a7aa-dfdab36e5113)
+
+
+______________________________________________________________________________________________________________________________________
+
 
 
 
