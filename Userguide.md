@@ -67,23 +67,23 @@ ________________________________________________________________________________
   (including amplifiers) that produce heat.
 - Protect the power cord from being walked on or pinched particularly at plugs,
 convenience receptacles, and the point where they exit from the apparatus.
-- WARNING: Please refer the information on exterior bottom enclosure for
+- Warning: Please refer the information on exterior bottom enclosure for
 electrical and safety information before installing or operating the apparatus.
-- WARNING: The main plug is used to disconnect the device and should remain
+- Warning: The main plug is used to disconnect the device and should remain
 readily operable.
- When not in use, tie up the power cordset with a cable tie or with something
+- When not in use, tie up the power cordset with a cable tie or with something
 similar. It should not be near sharp edges as it may cause abrasion of the power
 cordset. When put into use again, please make sure the power cordset is not
 damaged. If any damage is found, please use a replacement power cord specified
 by the manufacturer or that is identical to the original one.
- No open flame sources, such as lit candles, should be placed on, under, or near
+- No open flame sources, such as lit candles, should be placed on, under, or near
 the apparatus 14.Unplug this apparatus during lightning storms or when unused
 for long periods of time.
- Only use attachments/accessories specified by the manufacturer.
- Use only with the cart, stand, tripod, bracket, or table specified by the
+- Only use attachments/accessories specified by the manufacturer.
+- Use only with the cart, stand, tripod, bracket, or table specified by the
 manufacturer, or sold with the apparatus. When a cart is used, use caution when
 moving the cart/apparatus combination to avoid any injury.
- Refer all servicing to qualified service personnel. Servicing is required when the
+- Refer all servicing to qualified service personnel. Servicing is required when the
 apparatus has been damaged in any way, such as power-supply cord or plug is
 damaged, liquid has been spilled or objects have fallen into the apparatus, the
 apparatus has been exposed to rain or moisture, does not operate normally, or
